@@ -1,0 +1,15 @@
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\bin\Debug\net9.0\CatWorkx.BadgeMaker.exe
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\bin\Debug\net9.0\CatWorkx.BadgeMaker.deps.json
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\bin\Debug\net9.0\CatWorkx.BadgeMaker.runtimeconfig.json
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\bin\Debug\net9.0\CatWorkx.BadgeMaker.dll
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\bin\Debug\net9.0\CatWorkx.BadgeMaker.pdb
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.AssemblyInfo.cs
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.sourcelink.json
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.dll
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\refint\CatWorkx.BadgeMaker.dll
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.pdb
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\CatWorkx.BadgeMaker.genruntimeconfig.cache
+C:\Users\ninja\Personal-Projects\c--practice-\CatWorkx.BadgeMaker\obj\Debug\net9.0\ref\CatWorkx.BadgeMaker.dll
